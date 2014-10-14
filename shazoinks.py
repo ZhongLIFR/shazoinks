@@ -360,7 +360,7 @@ def admin():
 
 def initialize():
     '''Starts the program'''
-    print("\n\nWelcome to SHAZAM CS51!")
+    print("\n\nWelcome to shazoinks CS51!")
     auto()
     menu()
 

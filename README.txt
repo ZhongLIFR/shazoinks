@@ -7,7 +7,7 @@ Run the following command to install dependencies:
 
 
 INSTRUCTIONS
-To run the program, type into the command line python shazam.py
+To run the program, type into the command line python shazoinks.py
 
 
 The menu you see is the average user menu. The options are listed below.
